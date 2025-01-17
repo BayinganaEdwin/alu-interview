@@ -5,7 +5,7 @@ This project focuses on finding the fewest number of operations needed to result
 
 ## Task
 
-### 0. Minimum Operations
+### 0. Minimum Operations 
 
 Write a function `minOperations(n)` that calculates the fewest number of operations needed to reach exactly `n` `H` characters in the file.
 
